@@ -6,6 +6,8 @@ A Survival Prediction Model for patients with cardiovascular heart disease using
 
 Data Analysis & Machine Learning Tools Used: Python, NumPy, Pandas, Seaborn, Matplotlib, and Scikit-learn
 
+For a step-by-step walkthrough, please refer to the ipynb notebook in this repository. 
+
 ### Initial Observations on the data
 - Clean dataset - no null values, infinity values
 - Dataset had only numeric data types (int64, float64)
